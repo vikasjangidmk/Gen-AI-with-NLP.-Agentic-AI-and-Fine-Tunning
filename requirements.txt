@@ -5,4 +5,4 @@ nltk
 scikit-learn
 matplotlib
 seaborn
-
+gensim
